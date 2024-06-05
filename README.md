@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjanagupta90
 - 👀 I’m interested in work with data 
-- 🌱 I’m currently learning Data Analisty 
+- 🌱 I’m currently learning Data analysts 
   
 
 <!---
